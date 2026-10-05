@@ -1,0 +1,12 @@
+removido: 1
+removido: 2
+removido: 3
+removido: 4
+removido: 5
+erro: 3 nao encontrado
+vetor vazio
+7 8 9
+encontrado: 7 [pos=0]
+encontrado: 9 [pos=2]
+removido: 8
+7 9

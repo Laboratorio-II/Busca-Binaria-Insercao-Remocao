@@ -1,0 +1,11 @@
+vetor vazio
+tamanho: 0, capacidade: 4
+nao encontrado: 5
+erro: 5 nao encontrado
+erro: 99 nao encontrado
+encontrado: 10 [pos=0]
+removido: 10
+nao encontrado: 10
+removido: 20
+vetor vazio
+7

@@ -1,0 +1,15 @@
+10 25 30 50 60 75 90
+encontrado: 25 [pos=1]
+encontrado: 60 [pos=4]
+removido: 25
+10 30 50 60 75 90
+nao encontrado: 25
+removido: 90
+10 30 35 50 60 75
+encontrado: 35 [pos=2]
+encontrado: 10 [pos=0]
+1 5 10 30 35 45 50 55 60 65 75 80 85 95 100
+tamanho: 15, capacidade: 16
+encontrado: 100 [pos=14]
+encontrado: 1 [pos=0]
+encontrado: 55 [pos=7]

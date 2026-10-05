@@ -1,0 +1,6 @@
+-15 -10 -5 0 5
+-15 -10 -5 0 5 10 15 20
+encontrado: -15 [pos=0]
+encontrado: 0 [pos=3]
+encontrado: 20 [pos=7]
+nao encontrado: 1
